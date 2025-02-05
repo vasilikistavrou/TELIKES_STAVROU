@@ -2,7 +2,7 @@ from typing import Dict, Optional
 from datetime import date, datetime
 
 
-class PersonalData:
+'''class PersonalData:
     """
     Represents the personal data of a patient, including basic details, contact information, 
     address, occupation, and emergency contact.
@@ -96,7 +96,7 @@ class PersonalData:
             f"Email: {self.patients_email}, Address: {address_str}, Occupation: {self.patients_occupation}, "
             f"{emergency_contact_str}"
         )
-
+'''
 
 class FamilyHistory:
     """
